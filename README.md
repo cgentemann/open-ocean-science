@@ -40,18 +40,18 @@ Create your own website that will look like [my website](https://cgentemann.gith
 ### Edit Site Files via GitHub Browser Editor
 - Open a second web browser tab that shows the files in your repository github.com/[username]/[username].github.io
 - Edit the main settings file for your website to add your name, and to link your accounts
-- Click on the _config.yml file in your repository to see the contents of that file
-- Click on the ‘Edit This File’ button
-- Edit the following entries of the _config.yml file
-- Title
-- Name
-- Bio
-- Email (enter your full email address)
-- Edit the following entries to provide links to social media platforms by replacing #username with your actual username on that platform.
-- Twitter
-- Facebook
-- GitHub
-- ... etc.
+    - Click on the _config.yml file in your repository to see the contents of that file
+    - Click on the ‘Edit This File’ button
+    - Edit the following entries of the _config.yml file
+    - Title
+    - Name
+    - Bio
+    - Email (enter your full email address)
+    - Edit the following entries to provide links to social media platforms by replacing #username with your actual username on that platform.
+    - Twitter
+    - Facebook
+    - GitHub
+    - ... etc.
 ### Commit Changes to GitHub*
 After making changes to the file, make a note under the ‘Commit Changes’ section documenting the changes that you made (e.g. Updated social media usernames)
 - Click ‘Commit changes’
