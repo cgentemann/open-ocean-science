@@ -1,10 +1,9 @@
 # Using Git and GitHub for Open Ocean Science
 
-## GHRSST Science Team Meeting 2022
+## NASA Transform to Open Science Mission
 
 Organizers
 - Chelle Gentemann @cgentemann
-- Ed Armstrong @Edshred2000
 
 ## Task 1
 
