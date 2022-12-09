@@ -1,9 +1,9 @@
-# Using Git and GitHub for Open Ocean Science
+# Using Git and GitHub for Open Science
 
 ## NASA Transform to Open Science Mission
 
-Organizers
-- Chelle Gentemann @cgentemann
+Author
+- James Munroe
 
 ## Task 1
 
